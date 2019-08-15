@@ -9,6 +9,6 @@ To improve score and slightly reduce overfitting, I trained with 8-Fold stratifi
 Text embedding using FastText trained unsupervised with both train and test set.
 
 # Score
-Late submission 
-public LB : 0.77316
+Late submission <br>
+public LB : 0.77316 <br>
 private LB : 0.77468
